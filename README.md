@@ -22,6 +22,11 @@ joan.vendrell.c@gmail.com
 [![linkedin](https://www.linkedin.com/in/joan-vendrell-carbonell-94846545/)](https://www.linkedin.com/)
 
 
+## Achievements
+
+Recognized for my own judgment. 
+
+
 <!--
 **JoanVendrellC/JoanVendrellC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
