@@ -22,7 +22,7 @@ joan.vendrell.c@gmail.com
 [![linkedin](https://www.linkedin.com/in/joan-vendrell-carbonell-94846545/)](https://www.linkedin.com/)
 
 
-## :sports_medal:  Achievements
+## :trophy:  Achievements
 
 Recognized for my own judgment. 
 
