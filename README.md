@@ -19,7 +19,7 @@ joan.vendrell.c@gmail.com
 
 ## :two_men_holding_hands: or maybe I can be your new contact on Linkedin...
 
-[![linkedin](http://www.linkedin.com/in/j-vendrell)](https://www.linkedin.com/)
+[![linkedin](http://www.linkedin.com/in/j-vendrell)]
 
 
 ## :trophy:  Achievements
