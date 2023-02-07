@@ -22,17 +22,17 @@ joan.vendrell.c@gmail.com
 [![linkedin](https://www.linkedin.com/in/joan-vendrell-carbonell-94846545/)](https://www.linkedin.com/)
 
 
-## Achievements
+## :medal: Achievements
 
 Recognized for my own judgment. 
 
 
-## In my free time
+## :hourglass_flowing_sand: In my free time
 
-I love to practice any kind of sport :man-mountain-biking: :man-bouncing-ball: :tennis: :man-running: :man-lifting-weights: :man-rowing-boat:
+I love to practice any kind of sport :man-mountain-biking: :man-bouncing-ball: :tennis: :man-running: :man-lifting-weights: :man-rowing-boat: :roller_skate:
 
 
-## What about :airplane:
+## :airplane: What about travelling
 
 I love to meet news landscapes and to feel a connection with :earth_africa:
 
