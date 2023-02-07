@@ -29,7 +29,7 @@ Recognized for my own judgment.
 
 ## :hourglass_flowing_sand: In my free time
 
-I love to practice any kind of sport: :biking_man: :basketball: :soccer: :tennis: :running_man: :weight_lifting_man: :rowboat:
+I love to practice any kind of sport: :biking_man: :basketball:  :soccer: :tennis: :running_man: :weight_lifting_man: :rowboat:
 
 
 ## :airplane: What about travelling
