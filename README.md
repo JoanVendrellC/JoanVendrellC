@@ -39,24 +39,24 @@ I love to meet news landscapes and to feel a connection with :earth_africa:
 
 ## 	:computer: My Skills
 
-•   API and Web scraping.
-•   SQL.
-•   Regex.
-•   Git.
-•   Machine Learning.
+•   API and Web scraping
+•   SQL
+•   Regex
+•   Git
+•   Machine Learning
 •   Python
-•   Scikit-learn.
-•   Pandas.
-•   Data Visualization.
-•   Exploratory Data Analysis.
-•   Financial Analysis.
-•   Reporting and analysis.
-•   Strategic Management.
-•   Business Intelligence.
-•   Tableau.
-•   PowerBI.
-•   Dashboards.
-•   Microsoft PowerPoint.
-•   Microsoft Excel.
+•   Scikit-learn
+•   Pandas
+•   Data Visualization
+•   Exploratory Data Analysis
+•   Financial Analysis
+•   Reporting and analysis
+•   Strategic Management
+•   Business Intelligence
+•   Tableau
+•   PowerBI
+•   Dashboards
+•   Microsoft PowerPoint
+•   Microsoft Excel
 
 
